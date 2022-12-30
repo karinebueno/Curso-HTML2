@@ -1,0 +1,38 @@
+body {
+    background: gray;
+}
+
+#Title {
+    font-family: Verdana;
+}
+
+.Post-Title {
+    font-family: Verdana, Arial;
+}
+
+.Title, .Sub-Title, .Post-Title{
+    color: blue;
+}
+
+.Post-Title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.Post {
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: auto; 
+}
+
+.post_content {
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
+}
